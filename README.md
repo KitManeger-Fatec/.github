@@ -14,5 +14,3 @@ S.A.O.R.I. é uma solução composta por:
 ## Objetivo
 Reduzir erros em pedidos de materiais e agilizar o fluxo entre operador, gerência e compras.
 
-## Licença
-MIT
